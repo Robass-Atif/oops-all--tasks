@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\obj\Debug\test 01.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\obj\Debug\test 01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\bin\Debug\test 01.exe.config
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\bin\Debug\test 01.exe
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\bin\Debug\test 01.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\obj\Debug\test 01.exe
+C:\Users\DELL\Desktop\OOPs task\Week 02 pd\test 01\test 01\obj\Debug\test 01.pdb
