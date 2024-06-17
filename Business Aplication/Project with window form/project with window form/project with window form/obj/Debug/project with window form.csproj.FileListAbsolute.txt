@@ -1,0 +1,42 @@
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\bin\Debug\project with window form.exe.config
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\bin\Debug\project with window form.exe
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\bin\Debug\project with window form.pdb
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project with window form.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.Properties.Resources.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project with window form.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project with window form.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project with window form.exe
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project with window form.pdb
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.MainMenu.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.Admin.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.signIn.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.SignUp.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminInterface.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAddDoctor.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminViewRecord.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminUpdateSalary.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminUpdateFee.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDeleteDoctor.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminViewReviews.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminViewPatient.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmAdminViewBill.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorLogin.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorInterface.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorViewRecords.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorAddPatient.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorDeletePatient.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorViewAppointment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorAddAppointment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorCancelAppointment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorAddBillPayment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorAddPrescription.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmDoctorAddTestReports.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientInterface.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientLogin.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientViewPrescription.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientBillPayment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientCheckupFee.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientGiveReview.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientTestReports.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmPatientViewAppointment.resources
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project with window form\project with window form\project with window form\obj\Debug\project_with_window_form.frmForMemory.resources

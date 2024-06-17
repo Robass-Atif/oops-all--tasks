@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\bin\Debug\Project.exe.config
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\bin\Debug\Project.exe
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\bin\Debug\Project.pdb
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\obj\Debug\Project.exe
+C:\Users\DELL\Desktop\OOPs task\Business Aplication\Project\Project\obj\Debug\Project.pdb

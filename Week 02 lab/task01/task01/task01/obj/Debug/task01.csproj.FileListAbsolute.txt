@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\obj\Debug\task01.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\obj\Debug\task01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\bin\Debug\task01.exe.config
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\bin\Debug\task01.exe
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\bin\Debug\task01.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\obj\Debug\task01.exe
+C:\Users\DELL\Desktop\OOPs task\Week 02 lab\task01\task01\task01\obj\Debug\task01.pdb

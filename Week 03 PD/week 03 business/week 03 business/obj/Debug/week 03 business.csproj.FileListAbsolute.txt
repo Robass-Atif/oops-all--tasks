@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\bin\Debug\week 03 business.exe.config
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\bin\Debug\week 03 business.exe
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\bin\Debug\week 03 business.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\obj\Debug\week 03 business.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\obj\Debug\week 03 business.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\obj\Debug\week 03 business.exe
+C:\Users\DELL\Desktop\OOPs task\Week 03 PD\week 03 business\week 03 business\obj\Debug\week 03 business.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\obj\Debug\Task03.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\bin\Debug\Task03.exe.config
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\bin\Debug\Task03.exe
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\bin\Debug\Task03.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\obj\Debug\Task03.exe
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\obj\Debug\Task03.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\bin\Debug\EZInput.dll
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\bin\Debug\EZInput.xml
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task03\Task03\Task03\obj\Debug\Task03.csproj.CopyComplete

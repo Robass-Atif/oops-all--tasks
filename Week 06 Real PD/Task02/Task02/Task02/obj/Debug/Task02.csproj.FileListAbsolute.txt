@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task02\Task02\Task02\obj\Debug\Task02.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 06 Real PD\Task02\Task02\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\bin\Debug\Pacman Game.exe.config
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\bin\Debug\Pacman Game.exe
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\bin\Debug\Pacman Game.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman_Game.Form1.resources
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman_Game.Properties.Resources.resources
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.exe
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.pdb
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\bin\Debug\EZInput.dll
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\bin\Debug\EZInput.xml
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.CopyComplete
+C:\Users\DELL\Desktop\OOPs task\Week 14 lab\Pacman Game\Pacman Game\obj\Debug\Pacman_Game.EndGame.resources

@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\obj\Debug\Pacman with Oop.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\obj\Debug\Pacman with Oop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\bin\Debug\Pacman with Oop.exe.config
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\bin\Debug\Pacman with Oop.exe
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\bin\Debug\Pacman with Oop.pdb
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\bin\Debug\EZInput.dll
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\bin\Debug\EZInput.xml
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\obj\Debug\Pacman with Oop.csproj.CopyComplete
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\obj\Debug\Pacman with Oop.exe
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with Oop\Pacman with Oop\obj\Debug\Pacman with Oop.pdb

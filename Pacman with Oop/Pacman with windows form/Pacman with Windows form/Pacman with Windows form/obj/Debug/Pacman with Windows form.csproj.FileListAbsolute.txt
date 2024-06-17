@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman_with_Windows_form.Form1.resources
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman_with_Windows_form.Properties.Resources.resources
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\bin\Debug\Pacman with Windows form.exe.config
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\bin\Debug\Pacman with Windows form.exe
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\bin\Debug\Pacman with Windows form.pdb
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\bin\Debug\EZInput.dll
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\bin\Debug\EZInput.xml
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.csproj.CopyComplete
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.exe
+C:\Users\DELL\Desktop\OOPs task\Pacman with Oop\Pacman with windows form\Pacman with Windows form\Pacman with Windows form\obj\Debug\Pacman with Windows form.pdb

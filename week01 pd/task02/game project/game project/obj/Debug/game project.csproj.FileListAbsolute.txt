@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\bin\Debug\game project.exe.config
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\bin\Debug\game project.exe
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\bin\Debug\game project.pdb
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\bin\Debug\EZInput.dll
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\bin\Debug\EZInput.xml
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\obj\Debug\game project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\obj\Debug\game project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\obj\Debug\game project.csproj.CopyComplete
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\obj\Debug\game project.exe
+C:\Users\DELL\Desktop\OOPs task\week01 pd\task02\game project\game project\obj\Debug\game project.pdb
